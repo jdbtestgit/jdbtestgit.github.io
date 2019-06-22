@@ -1,6 +1,6 @@
-alert(‘foo');
-console.log('foo');
-foo.bar.c();
+alert(333);
+console.log(333);
+//foo.bar.c();
 
 // Options
 const CLIENT_ID = 'YOUR_CLIENT_ID';
