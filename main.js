@@ -1,4 +1,4 @@
-alert(foo);
+alert(‘foo');
 console.log('foo');
 foo.bar.c();
 
