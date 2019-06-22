@@ -1,3 +1,7 @@
+alert(foo);
+console.log('foo');
+foo.bar.c();
+
 // Options
 const CLIENT_ID = 'YOUR_CLIENT_ID';
 const DISCOVERY_DOCS = [
