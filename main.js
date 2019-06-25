@@ -1,5 +1,3 @@
-alert(334);
-foo.bar.gg();
 
 // Options
 const CLIENT_ID = 'YOUR_CLIENT_ID';
